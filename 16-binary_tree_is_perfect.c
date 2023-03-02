@@ -2,7 +2,7 @@
 #include "binary_trees.h"
 
 /**
-  * binary_tree_perfect - Checks if the binary tree is perfect
+  * binary_tree_is_perfect - Checks if the binary tree is perfect
   * @tree: a pointer to the root node of the tree to check
   *
   * Return: 1 or 0
